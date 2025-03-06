@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Omie Teste</string>
+
+    <plurals name="item_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d itens</item>
+    </plurals>
+
+    <string name="btt_add">Adicionar</string>
+    <string name="btt_save">Salvar</string>
+    <string name="add_item_title">Adicionar Item</string>
+    <string name="btt_finish">Finalizar Pedido</string>
+    <string name="customer_hint">Informe o nome do cliente</string>
+    <string name="item_name_hint">Nome do Item</string>
+    <string name="item_description_hint">Descrição do Item</string>
+    <string name="item_price_hint">Preço do Item</string>
+    <string name="catalog_title">Catálogo de Itens</string>
+    <string name="total_order">Total do Pedido</string>
+    <string name="btt_continue">Continuar</string>
+    <string name="no_order">Você ainda não fez nenhum pedido.\nClique no botão + para criar um novo pedido.</string>
+    <string name="order_label">Pedido: </string>
+    <string name="customer_label">Cliente: %s</string>
+    <string name="details">Detalhes</string>
+    <string name="items_label">Itens:</string>
+    <string name="total_label">Total:</string>
+    <string name="history_title">Histórico de Pedidos</string>
+    <string name="total_orders">Total em Pedidos:</string>
+    <string name="challenge_title">Desafio Técnico</string>
+    <string name="requirements_title">Requisitos</string>
+    <string name="requirements_description">O aplicativo deve permitir que o usuário registre um pedido com vários itens, incluindo a descrição de cada item, a quantidade, o valor unitário e o valor total de cada item. O aplicativo deve calcular o valor total do pedido somando o valor total de cada item. O aplicativo deve permitir que o usuário visualize todos os pedidos registrados, incluindo a descrição dos itens do pedido, a quantidade, o valor unitário e o valor total de cada item, bem como o valor total do pedido.</string>
+    <string name="delivery_title">Entrega</string>
+    <string name="delivery_description">O desenvolvedor deve entregar o código-fonte completo do aplicativo, incluindo todas as dependências e bibliotecas necessárias para executar o aplicativo. O aplicativo deve estar pronto para implantação.</string>
+    <string name="evaluation_title">Avaliação</string>
+    <string name="evaluation_description">O aplicativo será avaliado com base em sua funcionalidade e facilidade de uso. O código-fonte também será avaliado com base em sua qualidade, clareza e manutenção. O desenvolvedor será avaliado com base em sua capacidade de seguir requisitos e cumprir prazos.</string>
+    <string name="catalog_empty_list">"Nenhum item cadastrado ainda, adicione um novo item clicando no botão + acima."</string>"
+</resources>
